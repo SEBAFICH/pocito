@@ -1,0 +1,7 @@
+.vercel
+.DS_Store
+Thumbs.db
+
+# Backend de Google Apps Script: no debe publicarse en este repo estático
+*.gs
+appsscript.json
